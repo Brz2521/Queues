@@ -1,0 +1,15 @@
+John	Smith	90000
+Mathew	Marshal	89000
+Nicole	Lopaz	88200
+Adam	Benjamin	83400
+Julia	Hart	82000
+Mary	Loveland	79000
+Varon	Bansel	73400
+Ali	Hassan	63000
+Joseph	Murty	52000
+Ryan	Frankel	43400
+Julianne	Johnson	38600
+Noah	Expo	22000
+Deven	Williams	19300
+Richard	Peal	15200
+Lee	Wang	14300
